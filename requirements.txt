@@ -1,0 +1,12 @@
+matplotlib
+scipy
+transformers
+torch
+sentence-transformers
+accelerate
+numpy
+pandas
+scikit-learn
+stable-baselines3
+gym==0.26.2
+gymnasium
